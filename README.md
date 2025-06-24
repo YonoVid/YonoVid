@@ -34,10 +34,8 @@ Also, I created other smaller projects for my studies and as a personal challeng
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="5%" height="5%"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="5%" height="5%"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="5%" height="5%"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="5%" height="5%"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" title="Express" alt="Express" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" alt="SQL Server" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="5%" height="5%"/>
 </p>
@@ -50,18 +48,24 @@ Also, I created other smaller projects for my studies and as a personal challeng
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Phyton" alt="Phyton" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="Visual Basic" width="5%" height="5%"/>&nbsp;
   </p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="5%" height="5%"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap" width="5%" height="5%"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="5%" height="5%"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="5%" height="5%"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="5%" height="5%"/>
   </p> 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="5%" height="5%"/>&nbsp;
   </p>
 </div>
  
