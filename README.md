@@ -3,7 +3,8 @@
 
 Software Developer
 
->[![Linkedin profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin badge")](https://www.linkedin.com/in/david-esteban-arias-hern%C3%A1ndez-0738a5245/)
+>[![Linkedin profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin badge")](https://www.linkedin.com/in/david-esteban-arias-hern%C3%A1ndez-0738a5245/)  
+>[![CV Web Page](https://img.shields.io/badge/CV-Web_page-blue)](https://yonovid.github.io/CV/)
 
 ### About
 
