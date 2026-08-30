@@ -33,6 +33,7 @@ Also, I created other smaller projects for my studies and as a personal challeng
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="5%" height="5%"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" title="Express" alt="Express" width="5%" height="5%"/>&nbsp;
@@ -52,7 +53,6 @@ Also, I created other smaller projects for my studies and as a personal challeng
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="Visual Basic" width="5%" height="5%"/>&nbsp;
   </p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="5%" height="5%"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="5%" height="5%"/>&nbsp;
